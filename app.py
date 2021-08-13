@@ -58,8 +58,7 @@ st.sidebar.text(" \n")
 
 if page=="INTRODUCTION":
     st.header("FAKE NEWS PREDICTION")
-    img= Image.open("images//twitter.jpg")
-    st.image(img)
+    
 
 
 if page == "FAKE NEWS PREDICTION":
